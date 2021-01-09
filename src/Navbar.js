@@ -10,7 +10,7 @@ const Navbar =()=>{
     
       <nav className="navbar navbar-expand-lg navbar-light bg-light">
   <div className="container-fluid">
-    <NavLink className="navbar-brand" to="#"><i class="fa fa-snowflake-o" aria-hidden="true"></i>Interactive Media 
+    <NavLink className="navbar-brand" to="#"><i class="fa fa-snowflake-o" aria-hidden="true"></i>IDM.PVT.LTD
                   <i class="fa fa-snowflake-o" aria-hidden="true"></i></NavLink>
     <button className="navbar-toggler" type="button"
      data-toggle="collapse" data-target="#navbarSupportedContent" 
